@@ -122,5 +122,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries or further discussion, please reach out via GitHub or your preferred communication channel.
 
-Enjoy building a secure future with QoRS!
-`` ▋
+Enjoy buildin▋
